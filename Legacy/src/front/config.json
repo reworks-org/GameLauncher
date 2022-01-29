@@ -1,8 +1,0 @@
-{
-  "title": "Game Launcher",
-  "width": 640,
-  "height": 480,
-  "bg-image": "assets/front/demo.png",
-  "executable": "assets/unpacked/",
-  "install-url": "https://raw.githubusercontent.com/DomRe/GameLauncher/master/test_data/install/version.json"
-}
