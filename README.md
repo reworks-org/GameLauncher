@@ -1,3 +1,3 @@
 # GameLauncher
 
-Game Launcher written in .NET 6.
+Game Launcher written in .NET 7.
