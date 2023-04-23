@@ -1,0 +1,19 @@
+download from internet
+after download, validate wth md5
+if cant, delete, else, extract to location
+
+this stuff needs to be in config file
+
+https://github.com/webview/webview/blob/master/webview.h
+https://mdbootstrap.github.io/bootstrap-material-design/
+https://webdesigner.withgoogle.com/
+https://bootstrapstudio.io/
+https://www.google.com/search?client=firefox-b-d&q=C%2B%2B+file+hashing
+https://github.com/CommanderBubble/MD5
+https://curl.se/libcurl/c/
+
+https://stackoverflow.com/questions/1637587/c-libcurl-console-progress-bar
+https://www.w3schools.com/js/js_htmldom_nodes.asp
+https://www.w3schools.com/tags/tag_progress.asp
+https://github.com/CommanderBubble/MD5
+https://github.com/JosephP91/curlcpp

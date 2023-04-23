@@ -1,0 +1,9 @@
+[submodule "lib/curlcpp"]
+	path = lib/curlcpp
+	url = https://github.com/JosephP91/curlcpp
+[submodule "lib/json"]
+	path = lib/json
+	url = https://github.com/nlohmann/json
+[submodule "lib/webview"]
+	path = lib/webview
+	url = https://github.com/webview/webview.git
